@@ -4,7 +4,7 @@
 
 *in this life you need something to take the edge off*
 
-![Vibe Image](https://raw.githubusercontent.com/nori688/nori688/main/arturia_vibe.jpg)
+<img src="arturia_vibe.jpg" width="400" alt="Arturia Vibe">
 
 <sub>*Disclaimer: The artworks shown here are not mine. Credits to the original artists.*</sub>
 
