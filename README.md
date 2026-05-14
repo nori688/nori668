@@ -32,9 +32,6 @@ Interested in firearm mechanics and dark fantasy stories.
 
 <div align="center">
 
-### Current Vibe
-*Arturia Generator Active...*
-
 **Vibecoder eheh**
 
 </div>
